@@ -251,7 +251,7 @@ export default function PortfolioPage() {
               </Badge>
 
               <h1 className="max-w-3xl text-4xl font-bold leading-tight tracking-tight sm:text-5xl md:text-6xl">
-                Building thoughtful software, one product at a time.
+                Crafting digital softwares.
               </h1>
 
               <p className="max-w-xl text-lg text-muted-foreground">
